@@ -1,0 +1,9 @@
+{
+  "name": "telegram-bot-sample",
+  "version": "0.0.1",
+  "dependencies": {
+    "async-waterfall": "^0.1.5",
+    "mongoose": "^5.0.15",
+    "unirest": "^0.4.2"
+  }
+}
